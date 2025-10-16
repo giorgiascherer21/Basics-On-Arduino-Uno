@@ -6,6 +6,8 @@ Nesta primeira parte, o objetivo foi programar o LED interno do Arduino Uno para
 O experimento serviu como um primeiro teste para verificar a comunicação entre o Arduino e o computador, além de garantir que o ambiente de programação tenha sido corretamente configurado.
 
 Abaixo estão as evidências do funcionamento.
+🎥 [Assista à demonstração do projeto](assets/videos/video.mov)
+
 
 <div align="center">
   <sup>Circuito com o LED ligado!</sup>
