@@ -28,4 +28,3 @@ Me diverti muito realizando essa atividade!
 
 
 
-## Parte 2: Simulação Blink Led Eterno
