@@ -9,7 +9,7 @@ Abaixo estão as evidências do funcionamento.
 
 <div align="center">
   <sup>Circuito com o LED ligado!</sup>
-  <img src="/Users/giorgiascherer/Desktop/Basics-On-Arduino-Uno/assets/IMG_9951.png">
+  <img src="../assets/IMG_9951.png">
 </div>
 
 
