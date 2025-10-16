@@ -9,18 +9,18 @@ Abaixo estão as evidências do funcionamento.
 
 <div align="center">
   <sup>Circuito com o LED ligado!</sup>
-  <img src="../assets/IMG_9951.png">
+  <img src="/assets/IMG_9951.png">
 </div>
 
 
 <div align="center">
   <sup> Aqui podemos ver o código padrão do "BLINK" no Arduino IDE</sup>
-  <img src="/Users/giorgiascherer/Desktop/Basics-On-Arduino-Uno/assets/IMG_9952.png">
+  <img src="/assets/IMG_9952.png">
 </div>
 
 <div align="center">
   <sup> Foto do Experimento Completo! </sup>
-  <img src="/Users/giorgiascherer/Desktop/Basics-On-Arduino-Uno/assets/IMG_9954.png">
+  <img src="/assets/IMG_9954.png">
 </div>
 
 OBS: 
