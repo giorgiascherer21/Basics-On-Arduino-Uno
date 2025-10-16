@@ -9,25 +9,28 @@ Abaixo estão as evidências do funcionamento.
 
 🎥 [Clique aqui para assistir uma breve demonstração do projeto](assets/videos/video.mov)
 
-
-<div align="center">
-  <sup>Circuito com o LED ligado!</sup>
-  <img src="/assets/IMG_9951.png">
+<div align="center" style="margin-bottom: 20px;">
+  <sup>Circuito com o LED ligado!</sup><br>
+  <img src="/assets/IMG_9951.png" width="400">
 </div>
 
+<hr style="margin: 30px 0;">
 
-<div align="center">
-  <sup> Aqui podemos ver o código padrão do "BLINK" no Arduino IDE</sup>
-  <img src="/assets/IMG_9952.png">
+<div align="center" style="margin-bottom: 20px;">
+  <sup>Aqui podemos ver o código padrão do "BLINK" no Arduino IDE</sup><br>
+  <img src="/assets/IMG_9952.png" width="400">
 </div>
 
-<div align="center">
-  <sup> Foto do Experimento Completo! </sup>
-  <img src="/assets/IMG_9954.png">
+<hr style="margin: 30px 0;">
+
+<div align="center" style="margin-bottom: 20px;">
+  <sup>Foto do Experimento Completo!</sup><br>
+  <img src="/assets/IMG_9954.png" width="400">
 </div>
 
-OBS: 
-Me diverti muito realizando essa atividade!
+<hr style="margin: 30px 0;">
 
-
+<p>
+OBS: Me diverti muito realizando essa atividade! Achei bem interessante ver o LED funcionando na prática, colocar a mão no circuito e ver como o código se transforma em algo real. Aprendi várias coisas legais e, apesar de simples, foi bem satisfatório!
+</p>
 
